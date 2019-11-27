@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+izentohisawesome.wixsite.com	TRUE	/nezi	FALSE	1999999999	svSession	3fe65dcee1e5fc8e798bc8b89f3e4e48b401ca41c88bf0b7025ff73265cda281cc7502be54d7e7d6de9499e9f58e68a61e60994d53964e647acf431e4f798bcdf4f1792c576cc5f575e33fded2a30093a7c82353820ec0b8450ad7f91d4e12d2
+izentohisawesome.wixsite.com	TRUE	/nezi	FALSE	1999999999	TS01bca398	01b84e286aceabe93e79a8f2eaf23aabe3d9b85e678567642ad9056bdbe14871276392f47ec680a5da2892ad7e9bf20223c2b63f0b97230b35c44ab8a785eae4b9598e781c
+izentohisawesome.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1574834910|4_9Px-lTBx8Q
+izentohisawesome.wixsite.com	TRUE	/	FALSE	1999999999	hs	1265558583
+izentohisawesome.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache,desc=miss,varnish=miss, dc,desc=96"
+.wixsite.com	TRUE	/	FALSE	1999999999	TS016e3841	01b84e286a49add22aa4a7af8516edb390fac2f09d8567642ad9056bdbe14871276392f47edafa2352df0bafcced1331572819c435c06efcd0e9e37f1d8bde7658a064fec96fb9b165446e81f76551026945ae380714213300f98d605bffee7fa104bc2f2b
+
